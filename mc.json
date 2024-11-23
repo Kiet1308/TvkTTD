@@ -1,0 +1,1379 @@
+[
+    {
+      "Time1": 0,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "SergeantDrillman",
+      "Time2": 0,
+      "Time1": 6,
+      "UID": "1695911",
+      "Pos": "-2, 46, -297.6000061035156"
+    },
+    {
+      "Time1": 7,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ScientistDrillman",
+      "Time2": 0,
+      "Time1": 16,
+      "UID": "5409646",
+      "Pos": "47.099998474121094, 46, -284.5"
+    },
+    {
+      "Time1": 18,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ScientistDrillman",
+      "Time2": 0,
+      "Time1": 23,
+      "UID": "8049811",
+      "Pos": "36.099998474121094, 46, -284.70001220703125"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ScientistDrillman",
+      "Time2": 0,
+      "Time1": 26,
+      "UID": "949065",
+      "Pos": "50.70000076293945, 46, -305.79998779296875"
+    },
+    {
+      "Time1": 34,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "SergeantDrillman",
+      "Time2": 0,
+      "Time1": 35,
+      "UID": "9275841",
+      "Pos": "-23.799999237060547, 46, -291.5"
+    },
+    {
+      "Time2": 0,
+      "Time1": 36,
+      "Action": "UpgradeTroop",
+      "UID": "9275841"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ScientistDrillman",
+      "Time2": 0,
+      "Time1": 39,
+      "UID": "2665481",
+      "Pos": "66.0999984741211, 45.900001525878906, -289.5"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ScientistDrillman",
+      "Time2": 0,
+      "Time1": 43,
+      "UID": "2730688",
+      "Pos": "34.79999923706055, 46, -304.3999938964844"
+    },
+    {
+      "Time1": 52,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 55,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 65,
+      "Action": "UpgradeTroop",
+      "UID": "8049811"
+    },
+    {
+      "Time1": 72,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 76,
+      "Action": "UpgradeTroop",
+      "UID": "9275841"
+    },
+    {
+      "Time1": 87,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 88,
+      "Action": "UpgradeTroop",
+      "UID": "949065"
+    },
+    {
+      "Time2": 0,
+      "Time1": 90,
+      "Action": "UpgradeTroop",
+      "UID": "2665481"
+    },
+    {
+      "Time2": 0,
+      "Time1": 94,
+      "Action": "UpgradeTroop",
+      "UID": "5409646"
+    },
+    {
+      "Time1": 103,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ArmoredDrillman",
+      "Time2": 0,
+      "Time1": 104,
+      "UID": "7977974",
+      "Pos": "-4.800000190734863, 46, -292.6000061035156"
+    },
+    {
+      "Time1": 116,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 118,
+      "Action": "UpgradeTroop",
+      "UID": "2665481"
+    },
+    {
+      "Time2": 0,
+      "Time1": 129,
+      "Action": "UpgradeTroop",
+      "UID": "5409646"
+    },
+    {
+      "Time1": 135,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 137,
+      "Action": "UpgradeTroop",
+      "UID": "8049811"
+    },
+    {
+      "Time2": 0,
+      "Time1": 146,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time1": 155,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 158,
+      "Action": "UpgradeTroop",
+      "UID": "949065"
+    },
+    {
+      "Time2": 0,
+      "Time1": 175,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time1": 176,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 179,
+      "Action": "UpgradeTroop",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 185,
+      "Action": "UpgradeTroop",
+      "UID": "8049811"
+    },
+    {
+      "Time1": 196,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 197,
+      "Action": "UpgradeTroop",
+      "UID": "7977974"
+    },
+    {
+      "Time2": 0,
+      "Time1": 212,
+      "Action": "UpgradeTroop",
+      "UID": "5409646"
+    },
+    {
+      "Time1": 215,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 216,
+      "Action": "UpgradeTroop",
+      "UID": "949065"
+    },
+    {
+      "Time2": 0,
+      "Time1": 221,
+      "Action": "UpgradeTroop",
+      "UID": "2665481"
+    },
+    {
+      "Time1": 233,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 238,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 253,
+      "Action": "UpgradeTroop",
+      "UID": "8049811"
+    },
+    {
+      "Time1": 253,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 259,
+      "Action": "UpgradeTroop",
+      "UID": "5409646"
+    },
+    {
+      "Time1": 274,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 275,
+      "Action": "UpgradeTroop",
+      "UID": "7977974"
+    },
+    {
+      "Time2": 0,
+      "Time1": 278,
+      "Action": "UpgradeTroop",
+      "UID": "2665481"
+    },
+    {
+      "Time2": 0,
+      "Time1": 285,
+      "Action": "UpgradeTroop",
+      "UID": "1695911"
+    },
+    {
+      "Time1": 294,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 298,
+      "Action": "UpgradeTroop",
+      "UID": "7977974"
+    },
+    {
+      "Time1": 314,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 315,
+      "Action": "UpgradeTroop",
+      "UID": "949065"
+    },
+    {
+      "Time2": 0,
+      "Time1": 317,
+      "Action": "UpgradeTroop",
+      "UID": "8049811"
+    },
+    {
+      "Time1": 334,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 335,
+      "Action": "UpgradeTroop",
+      "UID": "2665481"
+    },
+    {
+      "Time2": 0,
+      "Time1": 347,
+      "Action": "UpgradeTroop",
+      "UID": "5409646"
+    },
+    {
+      "Time1": 354,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 355,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 359,
+      "Action": "UpgradeTroop",
+      "UID": "1695911"
+    },
+    {
+      "Time1": 374,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 375,
+      "Action": "UpgradeTroop",
+      "UID": "949065"
+    },
+    {
+      "Time2": 0,
+      "Time1": 379,
+      "Action": "UpgradeTroop",
+      "UID": "1695911"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ArmoredDrillman",
+      "Time2": 0,
+      "Time1": 385,
+      "UID": "869147",
+      "Pos": "-18.899999618530273, 46, -303.79998779296875"
+    },
+    {
+      "Time1": 394,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 396,
+      "Action": "UpgradeTroop",
+      "UID": "869147"
+    },
+    {
+      "Time2": 0,
+      "Time1": 397,
+      "Action": "UpgradeTroop",
+      "UID": "869147"
+    },
+    {
+      "Time1": 415,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 417,
+      "Action": "UpgradeTroop",
+      "UID": "869147"
+    },
+    {
+      "Time2": 0,
+      "Time1": 422,
+      "Action": "SellTroop",
+      "UID": "9275841"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ArmoredDrillman",
+      "Time2": 0,
+      "Time1": 433,
+      "UID": "3829056",
+      "Pos": "-10.899999618530273, 46, -312.6000061035156"
+    },
+    {
+      "Time1": 435,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 436,
+      "Action": "UpgradeTroop",
+      "UID": "3829056"
+    },
+    {
+      "Time2": 0,
+      "Time1": 437,
+      "Action": "UpgradeTroop",
+      "UID": "3829056"
+    },
+    {
+      "Time1": 455,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 456,
+      "Action": "UpgradeTroop",
+      "UID": "3829056"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ArmoredDrillman",
+      "Time2": 0,
+      "Time1": 461,
+      "UID": "9582592",
+      "Pos": "6, 46, -293"
+    },
+    {
+      "Time2": 0,
+      "Time1": 466,
+      "Action": "UpgradeTroop",
+      "UID": "9582592"
+    },
+    {
+      "Time1": 475,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 477,
+      "Action": "UpgradeTroop",
+      "UID": "9582592"
+    },
+    {
+      "Time1": 495,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 496,
+      "Action": "UpgradeTroop",
+      "UID": "9582592"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "ArmoredDrillman",
+      "Time2": 0,
+      "Time1": 507,
+      "UID": "5663875",
+      "Pos": "-6, 46, -281.70001220703125"
+    },
+    {
+      "Time2": 0,
+      "Time1": 509,
+      "Action": "UpgradeTroop",
+      "UID": "5663875"
+    },
+    {
+      "Time1": 515,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 517,
+      "Action": "UpgradeTroop",
+      "UID": "5663875"
+    },
+    {
+      "Time2": 0,
+      "Time1": 518,
+      "Action": "UpgradeTroop",
+      "UID": "5663875"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 527,
+      "UID": "3891335",
+      "Pos": "5, 46, -312.20001220703125"
+    },
+    {
+      "Time2": 0,
+      "Time1": 529,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 530,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 531,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 532,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time1": 536,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 536,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 538,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 541,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time1": 556,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 557,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time2": 0,
+      "Time1": 570,
+      "Action": "UpgradeTroop",
+      "UID": "3891335"
+    },
+    {
+      "Time1": 576,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 582,
+      "UID": "5988399",
+      "Pos": "-3, 46, -314.79998779296875"
+    },
+    {
+      "Time2": 0,
+      "Time1": 583,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 584,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 585,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 586,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 587,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 588,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time1": 596,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 597,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 599,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time1": 616,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 617,
+      "Action": "UpgradeTroop",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 626,
+      "Action": "ChangeTargetting",
+      "UID": "5988399"
+    },
+    {
+      "Time2": 0,
+      "Time1": 627,
+      "Action": "ChangeTargetting",
+      "UID": "5988399"
+    },
+    {
+      "Time1": 636,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "WitchCamerawoman",
+      "Time2": 0,
+      "Time1": 649,
+      "UID": "177591",
+      "Pos": "-3.9000000953674316, 46, -303"
+    },
+    {
+      "Time1": 656,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 677,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 678,
+      "Action": "UpgradeTroop",
+      "UID": "177591"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "WitchCamerawoman",
+      "Time2": 0,
+      "Time1": 696,
+      "UID": "9383131",
+      "Pos": "-6.400000095367432, 46, -306.1000061035156"
+    },
+    {
+      "Time1": 697,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 706,
+      "Action": "ChangeTargetting",
+      "UID": "9383131"
+    },
+    {
+      "Time2": 0,
+      "Time1": 708,
+      "Action": "ChangeTargetting",
+      "UID": "9383131"
+    },
+    {
+      "Time1": 717,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 718,
+      "Action": "UpgradeTroop",
+      "UID": "9383131"
+    },
+    {
+      "Time1": 737,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 745,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 746,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 746,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 748,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 749,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 750,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 751,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 752,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 754,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 755,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 756,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 757,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time1": 757,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 760,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 761,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 761,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 763,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 764,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 764,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 765,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time2": 0,
+      "Time1": 766,
+      "Action": "ChangeTargetting",
+      "UID": "1695911"
+    },
+    {
+      "Time1": 777,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 797,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 818,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 838,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 858,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 859,
+      "Action": "UpgradeTroop",
+      "UID": "177591"
+    },
+    {
+      "Time1": 878,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 898,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 918,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 939,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time1": 959,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 968,
+      "Action": "UpgradeTroop",
+      "UID": "9383131"
+    },
+    {
+      "Time1": 979,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 980,
+      "Action": "SellTroop",
+      "UID": "2730688"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 984,
+      "UID": "4821619",
+      "Pos": "28.5, 46, -304.70001220703125"
+    },
+    {
+      "Time2": 0,
+      "Time1": 986,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 987,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 988,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 989,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 989,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 991,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 993,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 994,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time1": 999,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1000,
+      "Action": "UpgradeTroop",
+      "UID": "4821619"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1007,
+      "Action": "SellTroop",
+      "UID": "8049811"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "SergeantDrillman",
+      "Time2": 0,
+      "Time1": 1015,
+      "UID": "8823165",
+      "Pos": "19.200000762939453, 46, -300.1000061035156"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1017,
+      "Action": "UpgradeTroop",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1018,
+      "Action": "UpgradeTroop",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1019,
+      "Action": "UpgradeTroop",
+      "UID": "8823165"
+    },
+    {
+      "Time1": 1019,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1020,
+      "Action": "UpgradeTroop",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1023,
+      "Action": "SellTroop",
+      "UID": "5409646"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 1026,
+      "UID": "4294029",
+      "Pos": "32, 46, -293.3999938964844"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1028,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1029,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1030,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1031,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1033,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1034,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1035,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1036,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1038,
+      "Action": "UpgradeTroop",
+      "UID": "4294029"
+    },
+    {
+      "Time1": 1039,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1043,
+      "Action": "SellTroop",
+      "UID": "949065"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 1047,
+      "UID": "4767661",
+      "Pos": "20.600000381469727, 46, -284.5"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1048,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1049,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1050,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1051,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1052,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1054,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1055,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time1": 1060,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1061,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1078,
+      "Action": "UpgradeTroop",
+      "UID": "4767661"
+    },
+    {
+      "Time1": 1080,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1081,
+      "Action": "SellTroop",
+      "UID": "2665481"
+    },
+    {
+      "Rotation": 1,
+      "Action": "Place",
+      "Name": "KingDrillman",
+      "Time2": 0,
+      "Time1": 1091,
+      "UID": "2394080",
+      "Pos": "35.599998474121094, 46, -303.8999938964844"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1092,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1093,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1094,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1095,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1096,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1097,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1098,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time1": 1100,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1103,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1119,
+      "Action": "UpgradeTroop",
+      "UID": "2730688"
+    },
+    {
+      "Time1": 1120,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    },
+    {
+      "Time2": 0,
+      "Time1": 1132,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1133,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1133,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1134,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1135,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1136,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1137,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1138,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1138,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time2": 0,
+      "Time1": 1139,
+      "Action": "ChangeTargetting",
+      "UID": "8823165"
+    },
+    {
+      "Time1": 1140,
+      "Action": "VoteSkipWave",
+      "Time2": 0
+    }
+  ]
